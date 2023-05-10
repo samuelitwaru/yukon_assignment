@@ -1,2 +1,2 @@
-# yukon_assignment
+# yukon-assignment
 Created with CodeSandbox
